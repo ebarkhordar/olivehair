@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ehsan Barkhordar!</h1>
 <h3 align="center">A passionate Data Scientist
 
+You can download my CV from [here](https://github.com/olivehair/olivehair/blob/main/CV.pdf)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olivehair&label=Profile%20views&color=0e75b6&style=flat" alt="olivehair" /> </p>
 
 
